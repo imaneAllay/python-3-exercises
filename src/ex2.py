@@ -17,3 +17,4 @@ def ex2():
     print(f"Total ones: {total_ones}.")
 
 ex2()
+#,
